@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏻
 #### I am Nidhi Zare, final year Computer Science undergraduate at BITS Pilani, Goa
 
 - I am extremly passionate about systems software, data science and technology in general. 💻 🖥 ⌨️
