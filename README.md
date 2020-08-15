@@ -9,5 +9,5 @@
 - I am also interested in Deep Learning and NLP.
 - I’m looking to collaborate on **Operating Systems, Deep Learning and NLP**.
 - 📫 How to reach me: zarenidhi5@gmail.com
-- To know more about me: <a href="https://nzare.github.io/" target="_blank"> Webpage </a>
+- To know more about me: <a href="https://nzare.github.io/" target="_blank">Webpage</a>
 
