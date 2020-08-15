@@ -8,6 +8,6 @@
 - I am comfortable coding in C, C++, Java, R and Python. 👩🏻‍💻
 - I am also interested in Deep Learning and NLP.
 - I’m looking to collaborate on **Operating Systems, Deep Learning and NLP**.
-- 📫 How to reach me: nidhizare2685@gmail.com
+- 📫 How to reach me: zarenidhi5@gmail.com
 - To know more about me: [Webpage](nzare.github.io)
 
